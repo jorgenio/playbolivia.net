@@ -1,0 +1,2 @@
+RewriteRule ^/?telelatino$ telelatino.html [L,R=301]
+RewriteRule ^/?hbo$ hbo.html [L,R=301]
